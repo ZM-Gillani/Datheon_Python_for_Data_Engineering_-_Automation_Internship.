@@ -2,7 +2,7 @@
 # Python Data Engineering & Automation Projects
 This repository contains Python projects developed as part of the Datheon Python for Data Engineering & Automation Internship.
 ## Project 1: Web Scraper & Data Extractor
-# Description
+### Description
 A Python web scraper that extracts book information from Books to Scrape using Requests and BeautifulSoup.
 ### Features
 - Scrapes paginated web pages.
@@ -10,16 +10,16 @@ A Python web scraper that extracts book information from Books to Scrape using R
 - Uses request headers and retry handling.
 - Handles request errors and logs scraping activity.
 - Exports collected data into CSV and JSON files.
-# Dataset
+### Dataset
 - Total records collected: 1,000
 - Output: books_data.csv and books_data.json
 # Technologies
 Python, Requests, BeautifulSoup, CSV, JSON, Logging
 
 # Project 2: Data Cleaning & Schema Transformation
-# Description
+### Description
 A Pandas-based data cleaning pipeline that transforms the scraped book dataset into a clean and structured dataset.
-# Features
+### Features
 - Handles missing values.
 - Removes duplicate book records.
 - Cleans and converts price values into numeric format.
