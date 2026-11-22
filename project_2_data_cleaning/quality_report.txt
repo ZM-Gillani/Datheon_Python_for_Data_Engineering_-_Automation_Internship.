@@ -1,0 +1,18 @@
+
+DATA CLEANING QUALITY REPORT
+
+Original records: 1000
+Final records: 999
+Duplicates removed: 1
+Missing values before cleaning: 0
+Missing values after cleaning: 0
+
+Final columns and data types:
+title               str
+price           float64
+availability        str
+rating            int64
+dtype: object
+
+Schema validation:
+PASSED
