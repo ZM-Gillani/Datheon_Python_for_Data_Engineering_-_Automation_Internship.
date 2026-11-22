@@ -13,7 +13,7 @@ A Python web scraper that extracts book information from Books to Scrape using R
 ### Dataset
 - Total records collected: 1,000
 - Output: books_data.csv and books_data.json
-# Technologies
+## Technologies
 Python, Requests, BeautifulSoup, CSV, JSON, Logging
 
 # Project 2: Data Cleaning & Schema Transformation
